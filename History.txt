@@ -2,4 +2,8 @@ Hola esto así es como luce un texto plano
 
 Agregando más texto para practicar con git y su consola de comandos.
 
-Siempre estudiando para ser excelente
+Siempre estudiando para ser excelente.
+
+frases porque en las frases hay sabiduria.
+
+
