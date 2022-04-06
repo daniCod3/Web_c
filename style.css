@@ -1,4 +1,27 @@
-body{
-    background-color: rgba(25, 135, 207, 0.445);
-    opacity: 0.8;
+body {
+    background-image: url(./jellyfish\ android-iphone-desktop-hd-backgrounds-wallpapers-1080p-4k-xgsid-2560x1600.jpg);
+    opacity: 1;
+    width: screen;
+    height: screen;
+}
+
+p{
+    background-color: #24303c;
+    width: 800px;
+    height: 800px;
+    margin: auto;
+    opacity: 1;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: -140px;
+}
+
+h1{
+    color: white;
+    width: auto;
+    height: auto;
+    margin: auto;
+    margin-top: 100px;
+    
+    
 }
