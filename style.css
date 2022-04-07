@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body {
-    background-color: rgba(0, 204, 255, 0.781);
+    background-image: url(./937475.png);
     opacity: 1;
     width: screen;
     height: screen;
@@ -13,7 +13,7 @@ body {
 p{
     background-color: white;
     width: 1200px;
-    height: 420px;
+    height: 425px;
     margin: auto;
     font-family: 'Times New Roman', Times, serif;
     margin-top: -140px;
