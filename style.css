@@ -1,27 +1,34 @@
 body {
-    background-image: url(./jellyfish\ android-iphone-desktop-hd-backgrounds-wallpapers-1080p-4k-xgsid-2560x1600.jpg);
+    background-color: rgba(0, 204, 255, 0.781);
     opacity: 1;
     width: screen;
     height: screen;
 }
 
 p{
-    background-color: #24303c;
-    width: 800px;
-    height: 800px;
+    background-color: white;
+    width: 1100px;
+    height: 400px;
     margin: auto;
-    opacity: 1;
-    color: white;
     font-family: 'Times New Roman', Times, serif;
+    margin-top: -140px;
+    color: #23557c;
     margin-top: -140px;
 }
 
 h1{
-    color: white;
+    color: #23557c;
     width: auto;
     height: auto;
     margin: auto;
-    margin-top: 100px;
-    
-    
+    margin-top: 100px;  
+    opacity: 1;
+}
+
+h4{
+    width: 700px;
+    height: 100px;
+    margin: auto;
+    margin-top: auto ;
+    background-color: #24303c;
 }
