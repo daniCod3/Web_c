@@ -13,11 +13,14 @@ body {
     background-image: url();
     width: 100%;
     height: screen;
+    background-color: rgb(216, 213, 213);
 }
     
-h1.Title{
-    color: #2323;
+h1{
+    color: black;
     margin-top: 300px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 45px;
 }
 h2.bd{
     margin: auto;
@@ -25,4 +28,10 @@ h2.bd{
     color: black;
     margin-top: 50px;
     opacity: 1;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+a{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
 }
