@@ -10,14 +10,18 @@ header{
     border-radius: 1px;
     box-shadow: 10px 5px 25px #24303c;
     background-image: url(./50-506632_why-choose-hypervsn-3d-holographic-displays-over-competitors.jpg);
+    
 }
+
 body {
     background-image: url();
     width: 100%;
     height: screen;
     background-color: rgb(216, 213, 213);
 }
-    
+ 
+
+
 h1{
     color: black;
     margin-top: 300px;
