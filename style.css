@@ -9,6 +9,7 @@ header{
     padding: 20px;
     border-radius: 1px;
     box-shadow: 10px 5px 25px #24303c;
+    background-image: url(./50-506632_why-choose-hypervsn-3d-holographic-displays-over-competitors.jpg);
 }
 body {
     background-image: url();
@@ -31,7 +32,7 @@ h2.bd{
     margin-top: 50px;
     opacity: 1;
     font-family: 'Times New Roman', Times, serif;
-    font-size: large;
+    font-size: 20px;
 }
 
 a{
